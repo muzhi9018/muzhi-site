@@ -1,7 +1,7 @@
-baseurl: https://example.com/
+baseurl: https://www.muzhi.store/
 languageCode: en-us
 theme: hugo-theme-stack
-title: Example Site
+title: 张牧之的个人空间
 copyright: Example Person
 
 # Theme i18n support
