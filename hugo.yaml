@@ -1,4 +1,4 @@
-baseurl: https://www.muzhi.store/
+baseURL: https://www.muzhi.store/
 languageCode: en-us
 theme: hugo-theme-stack
 title: 张牧之的个人空间
