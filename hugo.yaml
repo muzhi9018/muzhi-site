@@ -4,6 +4,13 @@ theme: hugo-theme-stack
 title: 张牧之的个人空间
 copyright: Zhang Muzhi's personal space
 
+# 添加开发环境特定配置
+development:
+  renderToDisk: false
+  port: 1313
+  liveReload: true
+  baseURL: "http://localhost:1313/"
+
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
 DefaultContentLanguage: en
